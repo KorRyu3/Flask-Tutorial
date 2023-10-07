@@ -1,0 +1,16 @@
+.venv/
+
+*.pyc
+__pychache__/
+
+.ipynb_checkpoints/
+
+instance/
+
+.pytest_chache/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/
